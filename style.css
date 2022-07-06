@@ -16,6 +16,7 @@ body{
 }
 .flood-text h1{
     font-size: 50px;
+    margin: 0;
 }
 .flood-text{
     text-align: center;
@@ -31,4 +32,53 @@ body{
     color: white;
     border-radius: 5px;
     text-decoration: none;
+}
+.donate-part{
+    text-align: center;
+    margin-bottom: 150px;
+    text-align: center;
+}
+.donate-part h1{
+    font-size: 40px;
+}
+.donate-button h3{
+    display: flex;
+    text-align: center;
+    background-color:rgb(230, 227, 227);
+    color: rgb(61, 60, 60);
+    padding: 20px;
+    cursor: pointer;
+    float: left;
+    border: 5px solid rgb(230, 227, 227);
+    margin: 10px;
+    font-weight: bold;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+#select-button{
+    color: white;
+    background-color: rgb(253, 94, 102);
+    border: 5px solid rgb(253, 94, 102);
+}
+input {
+    border:0;outline:0;
+    text-align: center;
+}
+.input-section{
+    text-align: center;
+}
+.input-section hr{
+    margin: 25px;
+}
+.second-donate-button{
+    background-image: linear-gradient(orange,orangered);
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+section{
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
 }
