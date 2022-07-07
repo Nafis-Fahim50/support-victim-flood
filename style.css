@@ -170,3 +170,17 @@ input {
     padding-right: 50px;
     text-align: left;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+footer h1{
+    color: red;
+    font-family:Brush Script MT;
+}
+footer p{
+    color: white;
+    font-size: 10px;
+}
