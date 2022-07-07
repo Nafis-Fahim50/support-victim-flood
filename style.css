@@ -138,3 +138,35 @@ input {
     border-radius: 5px;
     text-decoration: none;
 }
+.contact{
+    background-color: bisque;
+    text-align: center;
+}
+.email-button{
+    padding-right: 100px;
+    padding-left: 0;
+}
+.contract{
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.contract-button{
+    background-color:rgb(255, 227, 193);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 50%;
+    text-align: center;
+    margin-left: 360px;
+}
+.subcribe-button{
+    background-image: linear-gradient(orange,orangered);
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.email-button{
+    border-radius: 5px;
+    padding: 10px 20px;
+    padding-right: 50px;
+    text-align: left;
+}
